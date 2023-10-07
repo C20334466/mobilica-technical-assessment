@@ -1,4 +1,4 @@
-// abtract interface reated for methids for retrieving friends information
+// abtract interface created for methids for retrieving friends information
 public abstract interface Methods {
 	
 	// Method to retrieve name of friend
