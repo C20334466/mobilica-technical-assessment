@@ -29,4 +29,5 @@ License
 This project is licensed under the MIT License - see the LICENSE file for details.
 
 # Acknowledgments
-Inspiration for calculating great-circle distances using the Haversine formula: [Link to source](http://www.java2s.com/example/java/java.lang/gets-the-great-circle-distance-in-kilometers-between-two-geographical.html)http://www.java2s.com/example/java/java.lang/gets-the-great-circle-distance-in-kilometers-between-two-geographical.html
+Inspiration for calculating great-circle distances using the Haversine formula: 
+[Link to source]: (http://www.java2s.com/example/java/java.lang/gets-the-great-circle-distance-in-kilometers-between-two-geographical.html)http://www.java2s.com/example/java/java.lang/gets-the-great-circle-distance-in-kilometers-between-two-geographical.html
