@@ -4,12 +4,12 @@ public class friendInfo implements Methods{
 	// Variables created to store friends information
 	public String name;
 	public long user_id;
-	public double userLat; // St Stephen's Green park coordinates
-    public double userLong;
+	public double userLat; 
+    	public double userLong;
     
-    // Coordinates of St Stephens Green Park (SSG)
+   	// Coordinates of St Stephens Green Park (SSG)
 	public static double ssgLat = 53.337839; 
-    public static double ssgLong = -6.259520;
+    	public static double ssgLong = -6.259520;
 
 	
 	// constructor 
