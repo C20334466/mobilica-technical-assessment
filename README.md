@@ -24,7 +24,7 @@ Java SDK (at least version X.X.X)
 JSON Simple library for parsing JSON data (included in the project)
 
 # Contributors
-Your Name - Project Creator and Maintainer
+Nosa Emmanuel Igbinoba 
 License
 This project is licensed under the MIT License - see the LICENSE file for details.
 
